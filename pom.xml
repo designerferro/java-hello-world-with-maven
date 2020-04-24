@@ -12,6 +12,9 @@
            <java.version>1.8</java.version>
            <maven.compiler.source>1.6</maven.compiler.source>
            <maven.compiler.target>1.6</maven.compiler.target>
+           <sonar.projectKey>designerferro_java-hello-world-with-maven</sonar.projectKey>
+           <sonar.organization>designerferro-github</sonar.organization>
+           <sonar.host.url>https://sonarcloud.io</sonar.host.url>
      </properties>
 
       <dependencies>
